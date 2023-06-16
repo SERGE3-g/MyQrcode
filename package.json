@@ -17,5 +17,8 @@
   "license": "ISC",
   "dependencies": {
     "qrcode": "^1.5.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.1"
   }
 }
