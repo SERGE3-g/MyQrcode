@@ -1,0 +1,21 @@
+{
+  "name": "myqrcode",
+  "version": "1.0.0",
+  "description": "QRCode",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "MyQrcode"
+  },
+  "keywords": [
+    "01234"
+  ],
+  "author": "Serge Guea",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode": "^1.5.3"
+  }
+}
