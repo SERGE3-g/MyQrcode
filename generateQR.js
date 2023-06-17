@@ -64,7 +64,7 @@ function generateQRCode(menuUrl, outputPath) {
     });
 }
 // URL del menu del ristorante
-var menuUrl = 'https://www.example.com/menu';
+var menuUrl = 'https://www.linkedin.com/in/serge-guea-40b9801bb/?originalSubdomain=it';
 // Percorso in cui salvare l'immagine del QR code
 var outputPath = 'qr_code.png';
 // Genera il QR code

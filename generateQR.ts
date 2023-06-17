@@ -18,7 +18,7 @@ async function generateQRCode(menuUrl: string, outputPath: string): Promise<void
 }
 
 // URL del menu del ristorante
-const menuUrl = 'https://www.example.com/menu';
+const menuUrl = 'https://www.linkedin.com/in/serge-guea-40b9801bb/?originalSubdomain=it';
 // Percorso in cui salvare l'immagine del QR code
 const outputPath = 'qr_code.png';
 
